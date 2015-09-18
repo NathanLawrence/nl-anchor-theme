@@ -9,6 +9,7 @@ a:hover{
 	text-decoration:underline;
 }
 a#logo{
+	font-size:3em;
 	color:black;
 }
 a#logo:hover{
