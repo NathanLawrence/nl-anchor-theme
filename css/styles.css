@@ -80,7 +80,9 @@ div.explainer{
 
 div.verticalNav{
 	width:240px;
+	height:100%;
 	padding-left:0;
+	position:relative;
 }
 
 ul.verticalNavList{
@@ -105,4 +107,12 @@ ul.verticalNavList li a{
 
 ul.verticalNavList li a:hover{
 	color:#000;
+}
+
+#navFooter{
+	position:absolute;
+	bottom:0;
+	font-family:'Roboto';
+	padding-left:0.2em;
+	padding-right:0.2em;
 }
