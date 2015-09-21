@@ -6,6 +6,10 @@ div#logotext{
 	color:#000;
 }
 
+div#logotext:hover{
+	text-decoration:none;
+}
+
 span.nathan{
 	color : #800000;
 }
