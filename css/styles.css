@@ -95,9 +95,14 @@ ul.verticalNavList li{
 	text-align:right;
 	padding-top:1em;
 	padding-bottom:1em;
+	padding-right:0.2em;
 }
 
 ul.verticalNavList li a{
 	color:#909090;
 	text-decoration: none;
+}
+
+ul.verticalNavList li a{
+	color:#000;
 }
