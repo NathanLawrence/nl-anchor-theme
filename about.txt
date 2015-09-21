@@ -1,5 +1,5 @@
-Theme name:    Default
-Description:   This is the default, shiny theme for Anchor CMS.
-Author name:   Visual Idiot
-Author site:   http://visualidiot.com
-License:       http://licence.visualidiot.com
+Theme name:     Cam
+Description:    Custom theme by Cam
+Author name:    Cam Gould
+Author site:    http://camgould.com
+License:        http://licence.visualidiot.com
