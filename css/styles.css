@@ -91,6 +91,9 @@ ul.verticalNavList{
 
 ul.verticalNavList li{
 	font-family: 'Roboto', sans-serif;
+	text-align:right;
+	padding-top:1em;
+	padding-bottom:1em;
 }
 
 ul.verticalNavList li a{
