@@ -14,7 +14,6 @@
 		<!--Page Title-->
 		<title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
 		
-		<link href="<?php echo theme_url('css/style.css'); ?>"  rel="stylesheet" media="screen" type="text/css" />
 		<link rel="shortcut icon" href="<?php echo theme_url('img/favicon.ico'); ?>" type="image/x-icon" />
 		
 		<!-- Add per-post CSS -->
