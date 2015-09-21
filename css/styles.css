@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:700,400|Raleway:700);
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,400|Raleway:700,400);
 
 .content{
 	font-family: 'Roboto', sans-serif;
@@ -90,7 +90,8 @@ ul.verticalNavList{
 }
 
 ul.verticalNavList li{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	font-weight:400;
 	text-align:right;
 	padding-top:1em;
 	padding-bottom:1em;
