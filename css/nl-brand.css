@@ -3,10 +3,10 @@
 div#logotext{
 	font-family : 'Raleway', sans-serif;
 	font-size : 3em;
-	font-weight:400;
 	color:#000;
 	padding-top:0.5em;
 	padding-bottom:0.5em;
+	padding-left:0.2em;
 }
 
 a.logo{
