@@ -6,11 +6,11 @@
 		<meta name="generator" content="Anchor CMS" />
 		<!--Stylesheets-->
 			<!--Eric Meyer's Brilliant CSS Reset 2.0-->
-			<link rel="stylesheet" type="text/css" href="themes/css/reset.css">
+			<link rel="stylesheet" type="text/css" href="themes/nl-anchor-theme/css/reset.css">
 			<!--Basic site-wide stylesheet for fonts, etc.-->
-			<link rel="stylesheet" type="text/css" href="themes/css/styles.css">
+			<link rel="stylesheet" type="text/css" href="themes/nl-anchor-theme/css/styles.css">
 			<!--"Branding" CSS, including divs and spans for logo-->
-			<link rel="stylesheet" type="text/css" href="themes/css/nl-brand.css">
+			<link rel="stylesheet" type="text/css" href="themes/nl-anchor-theme/css/nl-brand.css">
 		<!--Page Title-->
 		<title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
 		
