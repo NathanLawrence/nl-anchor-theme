@@ -2,8 +2,7 @@
 
 .content{
 	font-family: 'Roboto', sans-serif;
-	padding-left:240px;
-	padding-top:-100vh;
+	float:left;
 }
 
 .responsiveBody{
