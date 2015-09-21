@@ -103,6 +103,6 @@ ul.verticalNavList li a{
 	text-decoration: none;
 }
 
-ul.verticalNavList li a{
+ul.verticalNavList li a:hover{
 	color:#000;
 }
