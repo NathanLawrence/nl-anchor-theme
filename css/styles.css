@@ -79,5 +79,16 @@ div.explainer{
 }
 
 ul.verticalNavList{
-	
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+ul.verticalNavList li{
+	font-family: 'Roboto', sans-serif;
+}
+
+ul.verticalNavList li a{
+	color:black;
+	text-decoration: none;
 }
