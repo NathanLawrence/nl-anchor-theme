@@ -23,12 +23,17 @@ blockquote{
 	font-style : italic;
 }
 
-strong{
-	color : #800000;
-}
-
 h1{
 	font-family: 'Roboto', sans-serif;
+	font-size:2em;
+}
+
+h1 a{
+	color : black;
+}
+
+h1 a:hover{
+	color : black;
 }
 
 a{
