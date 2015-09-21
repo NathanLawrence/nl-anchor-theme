@@ -2,7 +2,8 @@
 
 .content{
 	font-family: 'Roboto', sans-serif;
-	float:left;
+	padding-left:240px;
+	display:inline-block;
 }
 
 .responsiveBody{
