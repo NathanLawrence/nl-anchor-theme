@@ -78,6 +78,10 @@ div.explainer{
 	text-decoration:underline;
 }
 
+div.verticalNav{
+	padding-right:20em;
+}
+
 ul.verticalNavList{
 	list-style-type: none;
 	margin:0;
