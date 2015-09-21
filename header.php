@@ -29,15 +29,19 @@
 
 	<body>
 		<header>
-			<a class="logo" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>">
-				<div id="logotext"><span class="nathan">Nathan</span> Lawrence</div>
-			</a>
-			<?php if(has_menu_items()) : ?>
-			    <nav role="main">
-			        <?php while(menu_items()) : ?>
-			            <a href="<?php echo menu_url(); ?>" title="<?php echo menu_title(); ?>"><?php echo menu_name(); ?></a>
-			        <?php endwhile; ?>
-			    </nav>
-			<?php endif; ?>
+			<div id="navigation" class="verticalNav">
+				<a class="logo" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>">
+					<div id="logotext"><span class="nathan">Nathan</span> Lawrence</div>
+				</a>
+				<?php if(has_menu_items()) : ?>
+				    <nav role="main">
+				    	<ul class="verticalNavList">
+				        <?php while(menu_items()) : ?>
+				            <li><a href="<?php echo menu_url(); ?>" title="<?php echo menu_title(); ?>"><?php echo menu_name(); ?></a></li>
+				        <?php endwhile; ?>
+				        </ul>
+				    </nav>
+				<?php endif; ?>
+			</div>
 		</header>
 
