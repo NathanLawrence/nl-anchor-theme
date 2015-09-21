@@ -79,7 +79,8 @@ div.explainer{
 }
 
 div.verticalNav{
-	width:30em;
+	width:250px;
+	padding-left:0;
 }
 
 ul.verticalNavList{
