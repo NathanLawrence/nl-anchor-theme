@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<section class="content">
+			<?php if(has_posts()) : while(posts()) : ?>
+				<article>
+			    	<h1>
+			        	<a href="<?php echo article_url(); ?>" title="<?php echo article_title(); ?>">Lorem Ipsum</a>
+			        </h1>
+			        <h5>May 28, 1993</h5>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse semper lacinia tortor, eu mollis dui vestibulum a. Integer auctor lacinia lacinia. Proin enim mi, rutrum sed risus sed, accumsan feugiat lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tristique dui non condimentum varius. In eget nisl elementum felis congue aliquam a eget sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc suscipit aliquet libero sagittis luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque venenatis sapien nec magna tincidunt semper. Nullam ac convallis dolor. Pellentesque blandit lorem nec metus posuere finibus pulvinar nec arcu. Quisque dapibus posuere mi vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+				</article>
+			<?php endwhile; endif; ?>
+		</section>
+		
+		<section class="pagination">
+			<?php if(has_pagination()) : ?>
+			    <nav class="pagination">
+			        <?php echo posts_prev(); ?>
+			        <?php echo posts_next(); ?>
+			    </nav>
+			<?php endif; ?>
+		</section>
+</body>
+</html>

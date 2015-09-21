@@ -1,5 +1,5 @@
-Theme name:     Cam
-Description:    Custom theme by Cam
-Author name:    Cam Gould
-Author site:    http://camgould.com
+Theme name:     NL Custom Theme
+Description:    Custom theme by Nathan Lawrence
+Author name:    Nathan Lawrence
+Author site:    http://www.nathanlawrence.org
 License:        http://licence.visualidiot.com
