@@ -41,7 +41,11 @@ a{
 	text-decoration : none;
 }
 
-a:hover{
+.content a:hover{
+	text-decoration : underline;
+}
+
+.responsiveBody a:hover{
 	text-decoration : underline;
 }
 
@@ -76,7 +80,3 @@ div.explainer{
 	font-weight : 400;
 }
 
-a:hover{
-	color:#800000;
-	text-decoration:underline;
-}
