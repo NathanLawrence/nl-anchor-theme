@@ -113,4 +113,5 @@ ul.verticalNavList li a:hover{
 	font-family:'Roboto';
 	padding-left:0.2em;
 	padding-right:0.2em;
+	float:bottom;
 }
