@@ -1,21 +1,17 @@
 <!doctype html>
 <html class="no-js" lang="en">
-<!----------------------
-   ____                
-  / ___|__ _ _ __ ___  
- | |   / _` | '_ ` _ \ 
- | |__| (_| | | | | | |
-  \____\__,_|_| |_| |_|
-  
-   http://camgould.com
-
------------------------>
-
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta name="generator" content="Anchor CMS" />
-		
+		<!--Stylesheets-->
+			<!--Eric Meyer's Brilliant CSS Reset 2.0-->
+			<link rel="stylesheet" type="text/css" href="css/reset.css">
+			<!--Basic site-wide stylesheet for fonts, etc.-->
+			<link rel="stylesheet" type="text/css" href="css/styles.css">
+			<!--"Branding" CSS, including divs and spans for logo-->
+			<link rel="stylesheet" type="text/css" href="css/nl-brand.css">
+		<!--Page Title-->
 		<title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
 		
 		<link href="<?php echo theme_url('css/style.css'); ?>"  rel="stylesheet" media="screen" type="text/css" />
