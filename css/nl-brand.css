@@ -4,6 +4,9 @@ div#logotext{
 	font-family : 'Raleway', sans-serif;
 	font-size : 3em;
 	color:#000;
+}
+
+a.logo{
 	text-decoration: none;
 }
 
