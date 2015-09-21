@@ -1,0 +1,77 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,400|Raleway:700);
+
+.content{
+	font-family: 'Roboto', sans-serif;
+}
+
+.responsiveBody{
+	font-family: 'Roboto', sans-serif;
+	padding-left : 5%;
+	padding-right : 5%;
+}
+
+.TKAdjustableNumber{
+	color : #800000;
+}
+
+blockquote{
+	padding-left : 0.5em;
+	padding-top : 0.5em;
+	padding-bottom : 0.5em;
+	background-color : #d3d3d3;
+	width : 50%;
+	font-style : italic;
+}
+
+strong{
+	color : #800000;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+}
+
+a{
+	color : #800000;
+	text-decoration : none;
+}
+
+a:hover{
+	text-decoration : underline;
+}
+
+
+ul.noBulletStriped{
+	list-style-type : none;
+	padding-left : 0;
+	margin-left : 0;
+}
+
+ul.noBulletStriped li{
+	padding-left : 0.5em;
+	padding-top : 0.5em;
+	padding-bottom : 0.5em;
+	font-weight : 700;
+}
+
+ul.noBulletStriped li:nth-child(odd){
+	background-color : #d3d3d3;
+}
+
+ul.noBulletStriped li a{
+	color : black;
+}
+
+div.explainer{
+	padding-left : 1em;
+	padding-top : 0.5em;
+	padding-bottom : 0.5em;
+	width : 75%;
+	font-style : italic;
+	font-weight : 400;
+}
+
+a:hover{
+	color:#800000;
+	text-decoration:underline;
+}

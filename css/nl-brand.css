@@ -1,17 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,400|Raleway:700);
+
+div#nathanLawrence{
+	font-family : 'Raleway', sans-serif;
+	font-size : 400%;
+}
+
 span.nathan{
-	color:#800000;
+	color : #800000;
 }
-a{
-	color:#800000;
-}
-a:hover{
-	color:#800000;
-	text-decoration:underline;
-}
+
+
 a#logo{
 	font-size:2em;
 	color:black;
 }
+
 a#logo:hover{
 	text-decoration:none;
 }
