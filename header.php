@@ -30,7 +30,9 @@
 
 	<body>
 		<header>
-			<a class="logo" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>"><?php echo site_name(); ?></a>
+			<a class="logo" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>">
+				<div id="logotext"><span class="nathan">Nathan</span> Lawrence</div>
+			</a>
 			<?php if(has_menu_items()) : ?>
 			    <nav role="main">
 			        <?php while(menu_items()) : ?>
