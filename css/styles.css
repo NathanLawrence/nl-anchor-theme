@@ -3,6 +3,8 @@
 .content{
 	font-family: 'Roboto', sans-serif;
 	float:left;
+	padding-left:5%;
+	padding-right:5%;
 }
 
 .responsiveBody{
