@@ -25,7 +25,7 @@
 
 	<body>
 		<header>
-			<div id="navigation" class="navbar navbar-default">
+			<div id="navigation" class="navbar navbar-default navbar-fixed-top">
 				<div class="navbar-header">
 						<a class="logo navbar-brand" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>">
 						<div id="logotext"><span class="nathan">Nathan</span> Lawrence</div>
