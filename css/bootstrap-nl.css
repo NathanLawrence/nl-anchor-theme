@@ -6809,3 +6809,6 @@ a#logo:hover {
 .container {
   padding-top: 70px;
 }
+article h1:hover {
+  color: black;
+}
