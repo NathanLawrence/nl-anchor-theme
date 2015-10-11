@@ -26,6 +26,18 @@
 						<div class="col-xs-2">
 							<a href="https://www.facebook.com/nathan.lawrence.barrick"><span class="fa fa-lg fa-facebook"></span></a>
 						</div>
+						<div class="col-xs-2">
+							<a href="https://github.com/NathanLawrence"><span class="fa fa-lg fa-github"></span></a>
+						</div>
+						<div class="col-xs-2">
+							<a href="https://instagram.com/nathanblawrence/"><span class="fa fa-lg fa-instagram"></span></a>
+						</div>
+						<div class="col-xs-2">
+							<a href="https://www.linkedin.com/in/nathanblawrence"><span class="fa fa-lg fa-linkedin"></span></a>
+						</div>
+						<div class="col-xs-2">
+							<a href="https://vimeo.com/nathanblawrence"><span class="fa fa-lg fa-vimeo-square"></span></a>
+						</div>
 					</div>
 				</div>
 			</div>
