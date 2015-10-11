@@ -6828,6 +6828,12 @@ article h1:hover {
   font-size: 1.5em;
   text-align: center;
 }
+.social .col-xs-2 a {
+  color: #777777;
+}
+.social .col-xs-2 ahover {
+  color: #222222;
+}
 #nathan-bio {
   padding-top: 1.5em;
 }
