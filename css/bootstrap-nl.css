@@ -6837,3 +6837,6 @@ article h1:hover {
 #nathan-bio {
   padding-top: 1.5em;
 }
+img.full-width {
+  max-width: 100%;
+}
