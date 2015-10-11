@@ -20,7 +20,7 @@
 				<div id="nathan-bio">I'm a data journalist, media producer, and writer currently working for <a href="http://www.kbia.org/">KBIA Public Radio</a> in Columbia, Missouri, United States.</div>
 				<div class="row">
 					<div class="social">
-						<ul>
+						<ul class="list-inline">
 							<li><a href="http://www.twitter.com/nathanblawrence"><span class="fa fa-lg fa-twitter"></span></a></li>
 						</ul>
 					</div>
