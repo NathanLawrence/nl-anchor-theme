@@ -5,12 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta name="generator" content="Anchor CMS" />
 		<!--Stylesheets-->
-			<!--Eric Meyer's Brilliant CSS Reset 2.0-->
-			<link rel="stylesheet" type="text/css" href="<?php echo theme_url('css/reset.css'); ?>">
-			<!--Basic site-wide stylesheet for fonts, etc.-->
-			<link rel="stylesheet" type="text/css" href="<?php echo theme_url('css/styles.css'); ?>">
-			<!--"Branding" CSS, including divs and spans for logo-->
-			<link rel="stylesheet" type="text/css" href="<?php echo theme_url('css/nl-brand.css'); ?>">
+			<!--Compiled from Custom and Bootstrap LESS, so All Boostrap 3 commands will work!-->
+			<link rel="stylesheet" type="text/css" href="<?php echo theme_url('css/bootstrap-nl.css'); ?>">
 		<!--Page Title-->
 		<title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
 		
