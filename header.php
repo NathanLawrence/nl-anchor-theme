@@ -25,13 +25,15 @@
 
 	<body>
 		<header>
-			<div id="navigation" class="verticalNav">
-				<a class="logo" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>">
-					<div id="logotext"><span class="nathan">Nathan</span> Lawrence</div>
-				</a>
+			<div id="navigation" class="navbar navbar-default">
+				<div class="navbar-header">
+						<a class="logo navbar-brand" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>">
+						<div id="logotext"><span class="nathan">Nathan</span> Lawrence</div>
+					</a>
+				</div>
 				<?php if(has_menu_items()) : ?>
 				    <nav role="main">
-				    	<ul class="verticalNavList">
+				    	<ul class="verticalNavList nav navbar-nav">
 				        <?php while(menu_items()) : ?>
 				            <li><a href="<?php echo menu_url(); ?>" title="<?php echo menu_title(); ?>"><?php echo menu_name(); ?></a></li>
 				        <?php endwhile; ?>
