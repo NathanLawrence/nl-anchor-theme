@@ -3,6 +3,7 @@
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,400|Raleway:700);
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
@@ -6764,6 +6765,14 @@ button.close {
     display: none !important;
   }
 }
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 .navbar {
   border-radius: 0px;
 }
@@ -6771,11 +6780,17 @@ div#logotext {
   font-family: 'Raleway', sans-serif;
   font-size: 1.5em;
   color: #000;
-}
-a.logo {
-  text-decoration: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 div#logotext:hover {
+  text-decoration: none;
+}
+a.logo {
   text-decoration: none;
 }
 span.nathan {

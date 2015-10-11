@@ -1,3 +1,12 @@
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
 .navbar{
 	border-radius:0px;
 }
@@ -6,15 +15,18 @@ div#logotext{
 	font-family : 'Raleway', sans-serif;
 	font-size:1.5em;
 	color:#000;
+	.noselect;
+	
+	&:hover{
+		text-decoration:none;
+	}
 }
 
 a.logo{
 	text-decoration: none;
 }
 
-div#logotext:hover{
-	text-decoration:none;
-}
+
 
 span.nathan{
 	color : #800000;
@@ -29,3 +41,4 @@ a#logo{
 a#logo:hover{
 	text-decoration:none;
 }
+
