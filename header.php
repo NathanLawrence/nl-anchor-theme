@@ -5,6 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta name="generator" content="Anchor CMS" />
 		<!--Stylesheets-->
+			<!--Font Awesome, from CDN-->
+    		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 			<!--Compiled from Custom and Bootstrap LESS, so All Boostrap 3 commands will work!-->
 			<link rel="stylesheet" type="text/css" href="<?php echo theme_url('css/bootstrap-nl.css'); ?>">
 		<!--JS-->
