@@ -6823,3 +6823,7 @@ article h1:hover {
 .navbar-toggle {
   border-radius: 0;
 }
+.social {
+  font-size: 1.5em;
+  text-align: center;
+}
