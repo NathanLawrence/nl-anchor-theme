@@ -41,6 +41,9 @@
 					<a class="logo navbar-brand" href="<?php echo base_url(); ?>" title="<?php site_description(); ?>">
 						<div id="logotext"><span class="nathan">Nathan</span> Lawrence</div>
 					</a>
+					<div class="hidden-xs hidden-sm navbar-right" id="search-bar">
+						Search Here.
+					</div>
 				</div>
 				<?php if(has_menu_items()) : ?>
 					<div class="collapse navbar-collapse" id="collapsemenu">
