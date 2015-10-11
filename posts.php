@@ -16,7 +16,7 @@
 			</div>
 			<div class="col-md-2" id="bio-gutter">
 				<h1>About Me</h1>
-				<img src="http://media-store.nathanlawrence.org.s3.amazonaws.com/photos/kbia-headshot.jpg">
+				<img src="http://media-store.nathanlawrence.org.s3.amazonaws.com/photos/kbia-headshot.jpg" width="50%>
 			</div>
 		</div>
 		<section class="pagination">
