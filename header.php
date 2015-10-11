@@ -53,7 +53,7 @@
 					    </nav>
 				    </div>
 				<?php endif; ?>
-				<div class="hidden-xs hidden-sm navbar-right" id="search-bar">
+				<div class="hidden-xs hidden-sm pull-right" id="search-bar">
 						Search Here.
 				</div>
 			</div>
