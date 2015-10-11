@@ -6831,7 +6831,7 @@ article h1:hover {
 .social .col-xs-2 a {
   color: #777777;
 }
-.social .col-xs-2 ahover {
+.social .col-xs-2 a:hover {
   color: #222222;
 }
 #nathan-bio {
