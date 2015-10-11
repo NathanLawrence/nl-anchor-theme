@@ -8,6 +8,9 @@
 			<!--Compiled from Custom and Bootstrap LESS, so All Boostrap 3 commands will work!-->
 			<link rel="stylesheet" type="text/css" href="<?php echo theme_url('css/bootstrap-nl.css'); ?>">
 		<!--JS-->
+			<!--JQuery from Google's CDN-->
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+			<!--Bootstrap JS-->
 			<script src="<?php echo theme_url('js/bootstrap.min.js'); ?>"></script>
 		<!--Page Title-->
 		<title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
