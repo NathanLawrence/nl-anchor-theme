@@ -8,7 +8,7 @@
 			<!--Compiled from Custom and Bootstrap LESS, so All Boostrap 3 commands will work!-->
 			<link rel="stylesheet" type="text/css" href="<?php echo theme_url('css/bootstrap-nl.css'); ?>">
 		<!--JS-->
-			<script src="<?php echo theme_url('js/boostrap.min.js'); ?>"></script>
+			<script src="<?php echo theme_url('js/bootstrap.min.js'); ?>"></script>
 		<!--Page Title-->
 		<title><?php echo page_title(); ?> | <?php echo site_name(); ?></title>
 		
