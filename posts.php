@@ -23,6 +23,9 @@
 						<div class="col-xs-2">
 							<a href="http://www.twitter.com/nathanblawrence"><span class="fa fa-lg fa-twitter"></span></a>
 						</div>
+						<div class="col-xs-2">
+							<a href="https://www.facebook.com/nathan.lawrence.barrick"><span class="fa fa-lg fa-facebook"></span></a>
+						</div>
 					</div>
 				</div>
 			</div>
