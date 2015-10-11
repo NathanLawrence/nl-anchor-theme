@@ -3536,6 +3536,9 @@ tbody.collapse.in {
   -webkit-transition-timing-function: ease;
   transition-timing-function: ease;
 }
+.navbar-toggle {
+  border-radius: 0;
+}
 .caret {
   display: inline-block;
   width: 0;
