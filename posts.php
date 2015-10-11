@@ -17,6 +17,7 @@
 			<div class="col-md-2" id="bio-gutter">
 				<h1>About Me</h1>
 				<img src="http://media-store.nathanlawrence.org.s3.amazonaws.com/photos/kbia-headshot.jpg" width="50%">
+				<div id="nathan-bio">I'm a data journalist, media producer, and writer currently working for <a href="http://www.kbia.org/">KBIA Public Radio</a> in Columbia, Missouri, United States.</div>
 			</div>
 		</div>
 		<section class="pagination">
