@@ -1,7 +1,7 @@
 <?php theme_include('header'); ?>
 		<div class="row">
-			<div class="col-md-2"></div>
-			<div class="col-md-6">
+			<div class="col-md-1"></div>
+			<div class="col-md-7">
 				<section class="content">
 					<?php if(has_posts()) : while(posts()) : ?>
 						<article>
@@ -14,7 +14,7 @@
 					<?php endwhile; endif; ?>
 				</section>
 			</div>
-			<div class="col-md-2" id="bio-gutter">
+			<div class="col-md-3" id="bio-gutter">
 				<h1>About Me</h1>
 				<img src="http://media-store.nathanlawrence.org.s3.amazonaws.com/photos/kbia-headshot.jpg" width="50%">
 				<div id="nathan-bio">I'm a data journalist, media producer, and writer currently working for <a href="http://www.kbia.org/">KBIA Public Radio</a> in Columbia, Missouri, United States.</div>
