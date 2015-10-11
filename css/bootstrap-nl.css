@@ -6806,3 +6806,6 @@ a#logo:hover {
 .navbar-default {
   background-color: #fff;
 }
+.container {
+  padding-top: 70px;
+}
