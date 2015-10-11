@@ -6824,6 +6824,7 @@ article h1:hover {
   border-radius: 0;
 }
 .social {
+  padding-top: 1em;
   font-size: 1.5em;
   text-align: center;
 }
