@@ -8,7 +8,7 @@
 					    	<h1>
 					        	<a href="<?php echo article_url(); ?>" title="<?php echo article_title(); ?>"><?php echo article_title(); ?></a>
 					        </h1>
-					        <h5 class="date text-uppercase"><?php echo article_date(); ?></h5>
+					        <h5 class="date"><?php echo article_date(); ?></h5>
 							<p><?php echo article_description(); ?></p>
 							<div class="read-more"><a href="<?php echo article_url(); ?>">Read more...</a></div>
 						</article>

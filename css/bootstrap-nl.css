@@ -6851,4 +6851,5 @@ img.full-width {
 }
 h5.date {
   color: #555555;
+  text-transform: uppercase;
 }
