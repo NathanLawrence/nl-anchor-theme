@@ -6853,3 +6853,6 @@ h5.date {
   color: #555555;
   text-transform: uppercase;
 }
+nav ul li {
+  text-transform: uppercase;
+}
