@@ -20,6 +20,14 @@
 				<img src="http://media-store.nathanlawrence.org.s3.amazonaws.com/photos/KBIA-headshot-16-95.jpg" class="full-width hidden-sm">
 				<div id="nathan-bio">I'm a data journalist, media producer, and writer currently working for <a href="http://www.kbia.org/">KBIA Public Radio</a> in Columbia, Missouri, United States.</div>
 				<div class="row">
+					<div class="form-group">
+						<div class="input-group">
+							<input type="text" class="form-control" placeholder="Search">
+							<span class="input-group-btn"><button class="btn btn-default">Go</button></span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
 					<div class="social">
 						<div class="col-xs-2">
 							<a href="http://www.twitter.com/nathanblawrence"><span class="fa fa-lg fa-twitter"></span></a>
